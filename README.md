@@ -36,15 +36,14 @@ start locally
 
 #### Homepage
 
-![App Screenshot](https://drive.google.com/file/d/1WmXfSQgrIXK-Y_vMgX7CUJ5Mmq1lq52U/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/uc?export=view&id=11gZCbgALckUXquEfm4iV9WA6haK1nYGR)
 
 #### Login Page
-![App Screenshot](https://drive.google.com/file/d/1ct7AYJ2_BZ-4WBUAc0fIyYfH8NNqEu2H/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1deUwkhqlWSF83GPlA_Vt92n3Olwu1T3s)
 
 #### Account Page
 
-![App Screenshot](https://drive.google.com/file/d/1td__hfIFbtDSt8m4e7_tmvbSqgVB928v/view?usp=sharing)
-
+![App Screenshot](https://drive.google.com/uc?export=view&id=1Sq7f9pn1AYU3HD7uVFp1sFB4lZT0OcUy)
 
 #### Payment Gateway
 
